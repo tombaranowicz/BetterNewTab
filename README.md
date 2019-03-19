@@ -1,6 +1,9 @@
 # Better New Tab
 Better New Tab is Chrome Extension which overrides your 'New Tab' page to suggest pages that you are usually visiting at this time (e.g. it's Monday, 9:00AM -> it shows websites that are most visited on Mondays between 8:30 and 9:30 AM).
 
+## Chrome Web Store Link
+https://chrome.google.com/webstore/detail/better-new-tab/kepnbhfljnikdgoblfahbfdgmodejbkf
+
 ## Idea
 To be honest i am still surprised that Google cannot find out that depending on time i usually visit different websites. 
 My chrome browser life looks probably like for a lot of other developers: 
